@@ -109,5 +109,5 @@ Para executar qualquer um dos códigos você pode clonar o repositório, abrir a
 ```
 git clone https://github.com/jhoisz/Dart_listas
 cd Dart_listas
-dart nomeDoCodigo.dart
+dart listas.dart
 ```
