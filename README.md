@@ -83,7 +83,7 @@ print(myName);
 Jhoisnáyra Vitória Rodrigues de Almeida
 ```
 
-### Where:
+### Where
 
 Busca por elementos em uma lista que atendam a determinada especificação. Exemplo:
 
